@@ -4,7 +4,7 @@
 </em></p>
 
 <p> Something More : </br>
-This is my First Time Developing a App in Kotlin and i Am here just to trying to make different apps in different languages or framework just to Learn more about App Developmet, <a href="https://github.com/lakshrajj/HSBTE_APP">MY First App</a> You can also check this app , Which was made in JAVA <br><br>Note* - this is just 2nd app which i developed. </br>Development Started 10/1/21</p>
+This is my First Time Developing a App in Kotlin and i Am here just to trying to make different apps in different languages or framework just to Learn more about App Developmet, <a href="https://github.com/lakshrajj/HSBTE_APP">MY First App</a> You can also check this app , Which was MY First App and it was made in JAVA <br><br>Note* - this is just 2nd app which i developed. </br>Development Started 10/1/21</p>
 
 <p>Peace ⭐️</p>
 
