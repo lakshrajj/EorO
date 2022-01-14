@@ -6,7 +6,7 @@
 <p> Something More : </br>
 This is my First Time Developing a App in Kotlin and i Am here just to trying to make different apps in different languages or framework just to Learn more about App Developmet, <a href="https://github.com/lakshrajj/HSBTE_APP">MY First App</a> You can also check this app , Which was made in JAVA <br><br>Note* - this is just 2nd app which i developed. </p>
 
-<p>Peace </p>
+<p>Peace ⭐️</p>
 
 
 
@@ -14,4 +14,4 @@ This is my First Time Developing a App in Kotlin and i Am here just to trying to
 
 
 
-⭐️ From [@Lakshrajj](https://github.com/lakshrajj)
+ From [@Lakshrajj](https://github.com/lakshrajj)
