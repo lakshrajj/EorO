@@ -4,7 +4,7 @@
 
 
 
-[![GitHub Lakshraj](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lakshrajj)
+[![GitHub Lakshraj](https://img.shields.io/github/followers/lakshrajj?label=follow&style=social)](https://github.com/lakshrajj)
 
 
 
