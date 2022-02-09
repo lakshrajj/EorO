@@ -1,5 +1,5 @@
-<h4> *Under-Development </h4>
-<h6>Project On HOLD </h6>
+<h4> Project On HOLD  </h4>
+<h6>*Under-Development</h6>
 
 
 <h2> EorO <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><br>
