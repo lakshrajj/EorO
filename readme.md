@@ -10,7 +10,7 @@
 This is my First Time Developing a App in Kotlin and i Am here just to trying to make different apps in different languages or framework just to Learn more about App Developmet, <a href="https://github.com/lakshrajj/HSBTE_APP">MY First App</a> You can also check this app , Which was MY First App and it was made in JAVA <br><br>Note* - this is just 2nd app which i developed. </br>Development Started 10/1/21</p>
 
 <h5> Progress </h5>
-<p> ➼ Backend Code is Completed  </br>➼  Database Implementaion is Done (Used Google Firebase) </br>➼  For Login and Sign up used Firebase's Authorization </br>➼ UI , only 3 pages designed and Implemented (Shown Below).</p>
+<p> ➼ Backend Code is Completed  </br>➼  Database Implementaion is Done (Used Google Firebase) </br>➼  For Login and Sign up used Firebase's Authorization </br>➼ UI , only 3 pages designed and Implemented (Example Shown Below).</p>
 
 ![Screenshot 2022-01-14 163639](https://user-images.githubusercontent.com/70052551/150691539-34350d83-a859-437c-b367-ffadf58e5694.png)
 
